@@ -1,0 +1,29 @@
+.heading{
+width:100%;    
+margin:0;
+box-shadow: 5px 15px 19px lightgreen;
+padding: 10px;
+font-size: 25px
+}
+
+.note{
+color : lightgreen;
+font-size: 15px;
+}
+
+.copyrightfooter{
+bottom : 0;
+position : fixed;
+width : 100%;
+background-color: lightgreen;
+box-shadow: 5px 8px 300px rgb(2, 86, 243);
+padding: 10px;
+font-size: 20px;
+}
+
+canvas{
+background-color: lightblue;
+border-radius: 75px;
+box-shadow: 10px 15px 200px lightgreen;
+}
+
